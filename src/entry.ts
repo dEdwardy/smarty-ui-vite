@@ -1,5 +1,5 @@
 import { App } from "vue";
-import SFCButton from "./button/src/SFCButton.vue"
+import SFCButton from "./button/src/SFCButton.vue";
 import TSXButton from "./button/src/TSXButton";
 // 导出单独组件
 export { SFCButton, TSXButton };
@@ -11,5 +11,4 @@ export default {
     app.component(SFCButton.name, SFCButton);
     app.component(TSXButton.name, TSXButton);
   },
-
 };
