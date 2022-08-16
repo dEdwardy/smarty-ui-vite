@@ -1,3 +1,10 @@
-<script setup></script>
+<script setup>
+import TSXButton from "./button/src/TSXButton.tsx";
+</script>
 
-<template>App</template>
+<template>
+App
+<div>
+  <TSXButton>xxx</TSXButton>
+</div>
+</template>
