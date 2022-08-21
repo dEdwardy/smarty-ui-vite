@@ -16,6 +16,7 @@
     "test": "vitest run",
     "coverage": "vitest run --coverage"
   },
+  "homepage": "https://smarty-admin-6e6kokgog-dedwardy.vercel.app/",
   "keywords": [],
   "author": "",
   "license": "ISC",
