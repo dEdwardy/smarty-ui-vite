@@ -1,3 +1,14 @@
-.history
-node_modules
+**/node_modules/
+**/packages/**/demo
+**/coverage/
+**/.pnpm-debug
+**/dist
+package-lock.json
+.DS_Store
+.spress
+.vercel
 dist
+.idea
+/test
+*.zip
+.history
