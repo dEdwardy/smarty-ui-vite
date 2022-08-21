@@ -1,5 +1,5 @@
 import Theme from "vitepress/dist/client/theme-default";
-import SmartyUI from "../../../src/entry";
+import SmartyUI from "../../../src/index";
 
 console.log("SmartyUI", SmartyUI);
 console.log("Theme", Theme);
